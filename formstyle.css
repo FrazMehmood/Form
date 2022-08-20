@@ -1,0 +1,122 @@
+.intro{ padding: auto;
+    background-image:radial-gradient(rgb(255, 255, 255),rgb(221, 185, 118),rgb(146, 116, 19));
+    text-align: center;
+    border-radius: 80px 0px;
+    
+    
+}
+.bdy{
+    display: block;
+}
+.image{
+    border-radius:120px;
+    padding: 20px 2px 4px 2px;
+}
+.name{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 400;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(61, 5, 44);
+}
+.about{
+    font-size: large;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(44, 2, 39);
+
+}
+.t1{
+    padding: 30px;
+    text-align: center;
+
+}
+.twitter{
+    padding: 13px;
+    box-sizing: border-box;
+    border:1px solid rgb(27, 2, 17);
+    border-radius: 20px;
+    flex:5px;
+    font-weight: 800;
+    color: rgb(44, 41, 41);
+    transition: all;
+    text-decoration: none;
+
+}
+.twitter:hover{
+    color: red;
+    border: 1px solid red;
+}
+.y1{
+    padding: 30px;
+}
+.youtube{
+    padding: 13px;
+    box-sizing: border-box;
+    border:1px solid rgb(27, 2, 17);
+    border-radius: 20px;
+    flex:5px;
+    font-weight: 800;
+    color: rgb(44, 41, 41);
+    transition: all;
+    text-decoration: none;
+}
+.t2{
+    padding: 0px 0px 0px 90px;
+    vertical-align: bottom;
+}
+.youtube:hover{
+    color: red;
+    border: 1px solid red;
+}
+.y2{
+    padding: 0px 0px 0px 90px;
+    vertical-align: bottom;
+}
+
+.i1{
+    padding: 30px;
+    text-align: center;
+}
+.instagram{
+    padding: 13px;
+    box-sizing: border-box;
+    border:1px solid rgb(27, 2, 17);
+    border-radius: 20px;
+    flex:5px;
+    font-weight: 800;
+    color: rgb(44, 41, 41);
+    transition: all;
+    text-decoration: none;
+}
+.instagram:hover{
+    color: red;
+    border: 1px solid red;
+}
+.i2{
+    padding: 0px 0px 0px 70px;
+    vertical-align: bottom;
+}
+.l1{
+    padding: 30px;
+}
+.linkedin{
+    padding: 13px;
+    box-sizing: border-box;
+    border:1px solid rgb(27, 2, 17);
+    border-radius: 20px;
+    flex:5px;
+    font-weight: 800;
+    color: rgb(44, 41, 41);
+    transition: all;
+    text-decoration: none;
+}
+.linkedin:hover{
+    color: red;
+    border: 1px solid red;
+}
+.l2{
+    padding: 0px 0px 0px 80px;
+    vertical-align: bottom;
+}
